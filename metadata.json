@@ -1,0 +1,8 @@
+{
+  "name": "PegPop Studio",
+  "description": "A digital twin and pattern designer for pegboard mosaic art.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
